@@ -1,1 +1,1 @@
-# solving--linear-equation-systems-with-pyhton
+# Python for Solving Linear Equation Systems
